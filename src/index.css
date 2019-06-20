@@ -1,0 +1,13 @@
+body {
+  padding: 50px;
+  background-image: url('cloud.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  font-family: sans-serif;
+}
+
+#container {
+  display: flex;
+  justify-content: flex;
+}
